@@ -80,8 +80,8 @@ Or open `app.R` and click **Run App**.
 
 ## 🧑‍💻 Author
 
--   **Name**: Viet Bui\
--   **Email**: [viet.bui1\@monash.edu](mailto:viet.bui1@monash.edu), [longbui189\@gmail.com](mailto:longbui189@gmail.com)\
+-   **Name**: Viet Bui
+-   **Email**: [viet.bui1\@monash.edu](mailto:viet.bui1@monash.edu), [longbui189\@gmail.com](mailto:longbui189@gmail.com)
 -   **GitHub**: [github.com/vlbui](https://github.com/vlbui)
 
 ------------------------------------------------------------------------

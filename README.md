@@ -78,15 +78,6 @@ Or open `app.R` and click **Run App**.
 
 ------------------------------------------------------------------------
 
-## 📁 Folder Structure
-
-    pdf2word-shiny/
-    ├── app.R        # Main Shiny app
-    ├── README.md    # This file
-    └── .Rprofile    # (Optional) Run app on load
-
-------------------------------------------------------------------------
-
 ## 🧑‍💻 Author
 
 -   **Name**: Viet Bui\
